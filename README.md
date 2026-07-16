@@ -4,13 +4,13 @@
 
 I build **evidence-bounded AI systems**: agents that must cite their sources, pass eval gates in CI, and escalate to a human when they can't back a claim. Policy lives in code, not in prompts — a model can argue, but it can't talk its way past a verifier.
 
-Right now that means a fully autonomous content pipeline shipping short-form video daily (research → script → render → schedule, built on Claude Code), an installable MCP server for running AI transformation programs, and the repos below. I'm open to a **Principal / Lead AI Transformation role** — Berlin or remote.
+Right now that means a fully autonomous content pipeline shipping short-form video daily (research → script → render → schedule, built on Claude Code), an installable MCP server for running AI transformation programs, and the repos below.
 
 ## The repos, and why they exist
 
 | | |
 |---|---|
-| **[ai-transformation-90](https://github.com/benmfzen/ai-transformation-90)** | An operating system for the first 90 days as an AI transformation lead — playbook, costed business cases, working prototypes, and the method itself as an MCP server with evidence-gated scoring. My answer to *"what would you actually do here?"* |
+| **[ai-transformation-90](https://github.com/benmfzen/ai-transformation-90)** | A transformation copilot for the first 90 days of an AI program — playbook, costed business cases, working prototypes, and the method itself as an MCP server with evidence-gated scoring. Swap in your own org and it runs your program. |
 | **[snakeoil-radar](https://github.com/benmfzen/snakeoil-radar)** | A reaction radar for viral health misinformation, as a Claude Code skill — finds high-reach claims, checks them against PubMed **fail-closed**, never asserts what it can't cite. |
 | **[know-no-hearsay](https://github.com/benmfzen/know-no-hearsay)** | A reference architecture for evidence-bounded generative media — no pipeline step may increase the epistemic strength of a claim without evidence. |
 | **[sorting-hat](https://github.com/benmfzen/sorting-hat)** | An LLM-classified document inbox: drop scans into one folder, get named, filed paperwork out. Boring, useful, runs daily on my machine. |
