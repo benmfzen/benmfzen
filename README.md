@@ -1,6 +1,6 @@
 # Benjamin Zengler
 
-**Berlin · ex-COO of Fyrfeed (acquired 2024) · founder at [ai1 Ventures](https://ai1.ventures)**
+**Berlin · ex-COO of Fyrfeed (acquired 2024) · founder at [ai1 Ventures](https://ai1ventures.com)**
 
 I build **evidence-bounded AI systems**: agents that must cite their sources, pass eval gates in CI, and escalate to a human when they can't back a claim. Policy lives in code, not in prompts — a model can argue, but it can't talk its way past a verifier.
 
